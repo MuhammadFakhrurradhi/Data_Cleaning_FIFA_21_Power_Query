@@ -28,14 +28,16 @@ and Irrelevant data.
 
 
 **Pre_cleaning**
-![image](https://github.com/MuhammadFakhrurradhi/Data_Cleaning_FIFA_21_Power_Query/assets/131879017/f7c744d1-aeee-407a-b6e2-3eb2786c7e20)
+![image](https://github.com/MuhammadFakhrurradhi/Data_Cleaning_FIFA_21_Power_Query/assets/131879017/5a499e94-a724-4418-b3b6-68d1f4b81bc3)
+
 
 **Post_cleaning**
-![image](https://github.com/MuhammadFakhrurradhi/Data_Cleaning_FIFA_21_Power_Query/assets/131879017/3f6e2240-6b5c-44b2-9d93-80642c0275f1)
+![image](https://github.com/MuhammadFakhrurradhi/Data_Cleaning_FIFA_21_Power_Query/assets/131879017/48e2cb8a-7a67-49eb-8597-46f5d4208ef7)
 
 
 
---for the detail walkthrough can be seen in the file "FIFA 21 data cleaning walkthrough"
+
+--for the detail walkthrough can be found in the file named "FIFA 21 data cleaning walkthrough".
 
 
 
